@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+    - name: schema1
+      database: DB1
+      schema: schema1
+      tables:
+        - name: customers_data
